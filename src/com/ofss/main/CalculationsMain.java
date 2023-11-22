@@ -23,7 +23,19 @@ public class CalculationsMain {
 		System.out.println("Result is : :" + result);
 
 		System.out.println("main end");
+		details();
+		grett();
 		
+	}
+	
+	public static void details() {
+		System.out.println("all details are truee");
+
+	}
+	
+	public static void grett() {
+		System.out.println("How are you");
+
 	}
 
 }
